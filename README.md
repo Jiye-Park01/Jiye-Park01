@@ -40,7 +40,7 @@ Welcome to my page!
 
 ---
 ### Project
-- 📚 과제 
+- 📚 assignment
 - Apartment Community
 - Documentation services for female developers
 - It's Short time
