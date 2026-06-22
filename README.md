@@ -1,4 +1,4 @@
-> 👩‍💻 Developer
+> 👩‍💻 AI Researcher
 
 <!--
 **Jiye-Park01/Jiye-Park01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
