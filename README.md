@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my page!
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Django.
+- 🌱 I’m currently learning LLM, RAG, Computer Vision, Agent.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-jiye0710@duksung.ac.kr-4381C3?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiye0710@duksung.ac.kr "Connect via Email")
 
 ---
@@ -41,6 +41,7 @@ Welcome to my page!
 ---
 ### Project
 - 📚 assignment
+- Landmark Detection on Facial Mesh
 - Apartment Community
 - Documentation services for female developers
 - It's Short time
